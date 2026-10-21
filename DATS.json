@@ -3,10 +3,20 @@
     "description": "PiDose is an open-source tool for long-term oral drug administration to mice.",
     "creators": [
         {
-            "name": "Multiple Contributors"
+            "name": "Cameron Woodard"
+        },
+        {
+            "name": "Jeffrey LeDue"
+        },
+        {
+            "name": "Annika Wevers"
+        },
+        {
+            "name": "UBC Brain Circuits Cluster"
         }
     ],
     "version": "2022-02-10T18:37:19.830450",
+    "privacy": "open",
     "types": [
         {
             "information": {
@@ -31,7 +41,12 @@
                 "value": "MB"
             },
             "access": {
-                "landingPage": "https://osf.io/rpyfm/"
+                "landingPage": "https://osf.io/rpyfm/", 
+                "authorizations": [
+                      {
+                        "value": "registered"
+                      }        
+                ]
             },
             "formats": [
                 "N/A"
@@ -75,7 +90,7 @@
             "category": "CONP_status",
             "values": [
                 {
-                    "value": "CONP"
+                    "value": "Canadian"
                 }
             ]
         }
