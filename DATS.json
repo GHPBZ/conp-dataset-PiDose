@@ -44,7 +44,7 @@
                 "landingPage": "https://osf.io/rpyfm/", 
                 "authorizations": [
                       {
-                        "value": "registered"
+                        "value": "public"
                       }        
                 ]
             },
